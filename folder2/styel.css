@@ -6,3 +6,7 @@ h2{
     background-color: tomato;
     margin: 50px;
 }
+p{
+    background-color: yellow;
+    color: blue;
+}
