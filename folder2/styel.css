@@ -6,3 +6,11 @@ h2{
     background-color: tomato;
     margin: 50px;
 }
+
+.new{
+    background-color: rebeccapurple;
+    color: white;
+}
+*{
+    background-color: magenta;
+}
