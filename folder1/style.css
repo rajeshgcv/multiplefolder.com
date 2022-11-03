@@ -1,6 +1,7 @@
 h1{
     background-color: magenta;
 }
+<<<<<<< HEAD
 p{
     font-size: 36px;
     color: blueviolet;
@@ -17,3 +18,13 @@ p{
     color: blue;
     font-size: 30px;
 }
+=======
+.new{
+    background-color: rebeccapurple;
+    color: white;
+}
+*{
+    background-image: url(https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+}
+
+>>>>>>> 7c4d821d14706504d4c12d59d7d333594913d2c9
