@@ -1,15 +1,20 @@
 h1{
     background-color: magenta;
 }
-<<<<<<< HEAD
+
 .one{
     background-color: aqua;
-=======
+
 .new{
     background-color: rebeccapurple;
     color: white;
 }
 *{
+
     background-color: magenta;
->>>>>>> df546a63cb84990aa77eb60d3d05e9606cfd0c6b
+
 }
+
+    background-image: url(https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+}
+
