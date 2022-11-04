@@ -1,3 +1,28 @@
 h1{
     background-color: magenta;
 }
+
+h3{
+    color: aqua;
+}
+
+.new{
+    background-color: rebeccapurple;
+    color: white;
+}
+<<<<<<< HEAD
+
+ {background-color: magenta; 
+c0fbd849e4391ff434ba6e56a429313d8829dd79
+}
+p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}
+=======
+*{
+    background-image: url(https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+}
+
+>>>>>>> 6bb10f250aadf139364cbf5be0e2d97da6b516f5
